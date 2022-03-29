@@ -1,5 +1,9 @@
 <?php
 
-echo "Sajedul Islam Siaft"
+    for ($i=1; $i++) { 
+        echo $i;
+        break;
+    }
+
 
 ?>
