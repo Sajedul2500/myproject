@@ -1,9 +1,8 @@
 <?php
 
-    for ($i=1; $i<=50; $i++) { 
-        echo ($i);
-        break;
-    }
+   $city = array("Dhaka", "Tangail", "Gazipur");
+
+    print_r($city);
 
 
 ?>
