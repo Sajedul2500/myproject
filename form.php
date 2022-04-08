@@ -7,10 +7,9 @@
     <title>Form</title>
 </head>
 <body>
-    <form action="image.php" method="post" enctype="multipart/form-data">
+    <form action="img.php" method="post" enctype="multipart/form-data">
         <input type="file" name="upload_img"><br>
         <input type="submit" name="submit">
-
     </form>
 </body>
 </html>
